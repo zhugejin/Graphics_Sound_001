@@ -9,4 +9,6 @@ Shawn Lawson    git@github.com:shawnlawson/EV9D9.git
 
 Mary Montgomery https://github.com/marymonty/ACI_Project001
 
+Lewis Kim https://github.com/lewisKkim/ACI_KimLewis_GraphicsSound001
+
 ----
